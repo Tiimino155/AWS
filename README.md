@@ -7,3 +7,4 @@
 <img width="1911" height="1068" alt="螢幕擷取畫面 2026-11-12 104952" src="https://github.com/user-attachments/assets/b351c44d-9969-439d-a4e8-41f64d246ac8" />
 <img width="1889" height="1025" alt="螢幕擷取畫面 2026-11-12 114331" src="https://github.com/user-attachments/assets/2060ac6b-a5a6-4a98-8197-a8ec6f191528" />
 <img width="1897" height="1044" alt="螢幕擷取畫面 2026-11-12 105619" src="https://github.com/user-attachments/assets/8cae4b6a-924d-4466-91c4-0c47fe926ef9" />
+<img width="1892" height="952" alt="螢幕擷取畫面 2026-11-19 101111" src="https://github.com/user-attachments/assets/3a1277c0-13ee-4957-a794-e11be42e2e9c" />
